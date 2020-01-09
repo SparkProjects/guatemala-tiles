@@ -7,5 +7,7 @@ OpenStreetMap® es Open Data (un servicio de datos de acceso libre), con licenci
 
 La cartografía en estos mosaicos de mapas, están licenciados bajo la licencia [Creative Commons Reconocimiento-CompartirIgual 2.0](https://creativecommons.org/licenses/by-sa/2.0/) (CC BY-SA).
 
+El fallbacktile fue creado en http://btmills.github.io/geopattern/geopattern.html
+
 ## Importante
 - En un principio los mosaicos se actualizarán conforme sea necesario por lo tanto es necesario ver la fecha de generación para saber la antigüedad de los mismos.
