@@ -11,3 +11,13 @@ El fallbacktile fue creado en http://btmills.github.io/geopattern/geopattern.htm
 
 ## Importante
 - En un principio los mosaicos se actualizarán conforme sea necesario por lo tanto es necesario ver la fecha de generación para saber la antigüedad de los mismos.
+
+## 30-03-2020
+- Se agregaron los mosaicos del nivel 15.
+- El conjunto de mosaicos del nivel 7 al 15, son 208,453 archivos que ocupan 380.1 MB.
+
+## 08-01-2020
+- Se agregó un Fallbacktitle que es un mosaico que se muestra cuando no se encuentre alguno no este disponible o se encuentre fuera de los límites del mapa.
+
+## 05-01-2020
+- Se agregaron los mosaicos del nivel 7 al 14, son 52,597 archivos que ocupan 162.4 MB.
